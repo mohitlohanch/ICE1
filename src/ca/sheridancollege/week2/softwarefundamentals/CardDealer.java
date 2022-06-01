@@ -21,6 +21,9 @@ public class CardDealer
         
         System.out.println("I am Mohit Lohanch");
         
+         Card object1=new Card("soccer", 2);
+        cad.setSuit("aces");
+        
         // Mohit Lohanch 991670368
         
     }

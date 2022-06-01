@@ -20,6 +20,6 @@ public class CardDealer
         cad.setSuit("spades");
         
         // Mohit Lohanch 991670368
-        System.out.println("I am Mohit Lohanch");
+        
     }
 }

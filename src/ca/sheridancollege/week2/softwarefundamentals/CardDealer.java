@@ -16,7 +16,10 @@ public class CardDealer
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
         
-        Card mohitLohanch = new Card("99160368");
-        mohitLohanch.setSuit("991670368");
+        Card cad=new Card("game", 2);
+        cad.setSuit("spades");
+        
+        // Mohit Lohanch 991670368
+        System.out.println("I am Mohit Lohanch");
     }
 }
